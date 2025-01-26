@@ -1,0 +1,9 @@
+streamlit
+json
+langchain
+langchain-elasticsearch
+lark
+openai
+elasticsearch
+langchain_openai
+langchain-community
