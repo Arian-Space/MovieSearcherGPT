@@ -3,9 +3,9 @@ A Streamlit application that leverages OpenAI's RAG capabilities to search and e
 
 Languages ​​present in the movies:
 
-en: English
-de: German
-it: Italian
+* en: English
+* de: German
+* it: Italian
 fr: French
 hi: Hindi
 es: Spanish
