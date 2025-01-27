@@ -3,87 +3,87 @@ A Streamlit application that leverages OpenAI's RAG capabilities to search and e
 
 Languages ​​present in the movies:
 
-* en: English
+* af: Afrikaans
+* ar: Arabic
+* as: Assamese
+* az: Azerbaijani
+* bg: Bulgarian
+* bn: Bengali
+* bo: Tibetan
+* bs: Bosnian
+* ca: Catalan
+* cn: Not a standard ISO 639 code (possibly meant 'zh' for Chinese Simplified)
+* cs: Czech
+* da: Danish
 * de: German
+* dz: Dzongkha
+* el: Greek
+* en: English
+* es: Spanish
+* et: Estonian
+* eu: Basque
+* fa: Persian (Farsi)
+* fi: Finnish
+* fo: Faroese
+* fr: French
+* fy: Frisian
+* gl: Galician
+* gu: Gujarati
+* he: Hebrew
+* hi: Hindi
+* hr: Croatian
+* hu: Hungarian
+* hy: Armenian
+* id: Indonesian
+* is: Icelandic
 * it: Italian
-fr: French
-hi: Hindi
-es: Spanish
-ja: Japanese
-sv: Swedish
-cn: Not a standard ISO 639 code, possibly meant 'zh' for Chinese (simplified)
-tr: Turkish
-el: Greek
-id: Indonesian
-ml: Malayalam
-th: Thai
-cs: Czech
-nl: Dutch
-zh: Chinese
-hr: Croatian
-ko: Korean
-tl: Tagalog
-xx: Not a valid language code; sometimes used to indicate "unspecified" or "unknown" language
-ar: Arabic
-pt: Portuguese
-jv: Javanese
-ru: Russian
-no: Norwegian
-et: Estonian
-ta: Tamil
-fi: Finnish
-bg: Bulgarian
-bn: Bengali
-si: Sinhala
-fa: Persian (Farsi)
-ro: Romanian
-da: Danish
-kn: Kannada
-te: Telugu
-lv: Latvian
-hu: Hungarian
-nv: Navajo
-lt: Lithuanian
-sh: Serbo-Croatian (non-standard, usually 'sr' for Serbian or 'hr' for Croatian)
-ms: Malay
-vi: Vietnamese
-uk: Ukrainian
-pl: Polish
-sr: Serbian
-eu: Basque
-mr: Marathi
-nb: Norwegian Bokmål
-af: Afrikaans
-is: Icelandic
-he: Hebrew
-sk: Slovak
-ur: Urdu
-bs: Bosnian
-sl: Slovenian
-mk: Macedonian
-az: Azerbaijani
-as: Assamese
-ne: Nepali
-ca: Catalan
-ka: Georgian
-lb: Luxembourgish
-km: Khmer (Cambodian)
-yi: Yiddish
-sq: Albanian
-kl: Greenlandic (Kalaallisut)
-dz: Dzongkha
-my: Burmese
-pa: Punjabi
-sw: Swahili
-kk: Kazakh
-bo: Tibetan
-hy: Armenian
-or: Odia
-fy: Frisian
-fo: Faroese
-mn: Mongolian
-ku: Kurdish
-gl: Galician
-ln: Lingala
-wo: Wolof
-gu: Gujarati
+* ja: Japanese
+* jv: Javanese
+* ka: Georgian
+* kk: Kazakh
+* kl: Greenlandic (Kalaallisut)
+* km: Khmer (Cambodian)
+* kn: Kannada
+* ko: Korean
+* ku: Kurdish
+* lb: Luxembourgish
+* ln: Lingala
+* lt: Lithuanian
+* lv: Latvian
+* mk: Macedonian
+* ml: Malayalam
+* mn: Mongolian
+* mr: Marathi
+* ms: Malay
+* my: Burmese
+* nb: Norwegian Bokmål
+* ne: Nepali
+* nl: Dutch
+* no: Norwegian
+* nv: Navajo
+* or: Odia
+* pa: Punjabi
+* pl: Polish
+* pt: Portuguese
+* ro: Romanian
+* ru: Russian
+* sh: Serbo-Croatian (non-standard)
+* si: Sinhala
+* sk: Slovak
+* sl: Slovenian
+* sq: Albanian
+* sr: Serbian
+* sv: Swedish
+* sw: Swahili
+* ta: Tamil
+* te: Telugu
+* th: Thai
+* tl: Tagalog
+* tr: Turkish
+* uk: Ukrainian
+* ur: Urdu
+* vi: Vietnamese
+* wo: Wolof
+* xx: Not a valid language code; sometimes used for "unspecified" or "unknown" language
+* yi: Yiddish
+* zh: Chinese
